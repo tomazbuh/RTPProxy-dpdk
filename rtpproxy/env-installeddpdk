@@ -1,0 +1,2 @@
+export RTE_SDK=/usr/share/dpdk/
+export RTE_TARGET=x86_64-default-linuxapp-gcc
